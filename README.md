@@ -5,7 +5,7 @@ I am a passionate frontend developer with a keen interest in web development, ch
 ---
 
 ##  Technologies 🛠️
-- **Languages**: Python, JavaScript, TypeScript, 
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 - **Frameworks**: React, Next.js, Node.js, Express, LangChain, LangGraph
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Cloud**: AWS, Azure
