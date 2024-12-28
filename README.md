@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Syed Raza Ali 👋
 
-<!--
-**Syed-Raza-Ali/Syed-Raza-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate frontend developer with a keen interest in web development, chatbots, and AI-driven solutions. I enjoy learning new technologies and contributing to innovative projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages**: Python, JavaScript, TypeScript, 
+- **Frameworks**: React, Next.js, Node.js, Express, LangChain, LangGraph
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Cloud**: AWS, Azure
+- **Tools**: Git, Docker, Kubernetes
+- **Chatbot Dev**: Dialogflow ES, Flowise AI, Kommunicate, Jenkins
+
+
+---
+
+## 📫 How to Reach Me
+- **Email**: itsrazaalishah303@gmail.com
+- **LinkedIn**: [Syed Raza Ali](https://www.linkedin.com/in/syed-raza-ali-346263308/)
+
+---
+
+## 💬 Feel free to ask me
+- AI-driven chatbot development
+- Web development
+
+---
+
