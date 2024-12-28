@@ -19,9 +19,9 @@ I am a passionate frontend developer with a keen interest in web development, ch
 
 ---
 
-##  Feel free to ask me 💬
-- AI-driven chatbot development
-- Web development
+##  Check my links 🔗
+- **FOR SOCIALS**: [SYED RAZA ALI ](https://linktr.ee/syedrazaalii)
+- **FOR PROJECTS**: [RAZA'S PROJECTS ](https://linktr.ee/razaprojects)
 
 ---
 
