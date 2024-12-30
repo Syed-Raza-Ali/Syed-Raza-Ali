@@ -5,7 +5,7 @@ I am a passionate frontend developer with a keen interest in web development, ch
 ---
 
 ##  Tech Stack 🛠️
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Databases**: NeonDB, MongoDB, PostgreSQL
 - **Cloud**: AWS, Azure
 - **Tools**: Git, Docker, Kubernetes
 - **Chatbot Dev**: Dialogflow ES, Flowise AI, Kommunicate, Jenkins
